@@ -20,6 +20,6 @@
   <a href="https://www.linkedin.com/in/larissa-monteiro-pessoa-2427401a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://github.com/Larismontp/Larismontp/blob/main/.github/workflows/snake.yml)
+  ![Snake animation](https://github.com/Larismontp/Larismontp/blob/github-contribution-grid-snake.svg)
  </div>              
 </div>
